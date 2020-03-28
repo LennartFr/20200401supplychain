@@ -55,6 +55,18 @@ https://youtu.be/mMHmxoNrWKo
 
 ## Food industry without Blockchain
 
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+   
+  </tr>
+  </tr>
+  <tr>
+    <td>Eve</td>
+   
+  </tr>
+</table>
+
 <img src="/img/FoodIndustry1.png" height="50%" width="50%">
 
 <p>
