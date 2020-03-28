@@ -11,6 +11,8 @@ Building Blockchain apps with JavaScript part 2
 
 #### David Nugent, IBM Developer Advocate, San Francisco
 
+#### Taiji Hagino, Senior IBM Developer Advocate, Tokyo
+
 ## Blockchain in the news
 
 <img src="/img/IBP.GS.png">
