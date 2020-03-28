@@ -11,8 +11,6 @@ Building Blockchain apps with JavaScript part 2
 
 #### David Nugent, IBM Developer Advocate, San Francisco
 
-#### Grant Steinfeld, IBM Developer Advocate New York City
-
 ## Blockchain in the news
 
 <img src="/img/Honeywell.png">
