@@ -78,7 +78,7 @@ https://youtu.be/mMHmxoNrWKo
 
 <img src="/img/BP1.png">
 <p>
-<img src="/img.BP2.png"<
+<img src="/img/BP2.png">
 
 ## IBM Blockchain Platform Console. https://www.ibm.com/cloud/blockchain-platform/pricing
 
