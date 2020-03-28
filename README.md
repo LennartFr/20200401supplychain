@@ -57,24 +57,14 @@ https://youtu.be/mMHmxoNrWKo
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-   
-  </tr>
+   <img src="/img/FoodIndustry1.png" height="50%" width="50%">
+
   </tr>
   <tr>
-    <td>Eve</td>
+    <img src="/img/FoodIndustry2.png" height="50%" width="50%">
    
   </tr>
 </table>
-
-<img src="/img/FoodIndustry1.png" height="50%" width="50%">
-
-<p>
- 
-## Food industry with Blockchain
-
-<img src="/img/FoodIndustry2.png" height="50%" width="50%">
-
 <p>
 
 <img src="/img/Blockchain.png">
