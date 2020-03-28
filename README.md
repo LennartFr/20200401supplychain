@@ -13,6 +13,8 @@ Building Blockchain apps with JavaScript part 2
 
 ## Blockchain in the news
 
+<img src="/img/blockvid.png">
+
 <img src="/img/Honeywell.png">
 
 <img src="/img/Oracle.png">
