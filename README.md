@@ -7,8 +7,6 @@
  
  <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-
-
 #### Lennart Frantzell, IBM Devloper Advocate San Francisco alf@us.ibm.com
 
 #### David Nugent, IBM Developer Advocate, San Francisco
@@ -76,16 +74,11 @@ https://youtu.be/mMHmxoNrWKo
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-<p>
-<img src="/img/BP1.png">
-<p>
-
 ## In addition to the Open Source Hyperledger Fabric there is the cloud-based IBM Blockchain Platform:
 
-<img src="/img/bp1.png">
+<img src="/img/BP1.png">
 <p>
-<img src="/img.bp2.png"<
-
+<img src="/img.BP2.png"<
 
 ## IBM Blockchain Platform Console. https://www.ibm.com/cloud/blockchain-platform/pricing
 
