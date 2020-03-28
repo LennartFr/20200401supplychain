@@ -71,13 +71,11 @@ https://youtu.be/mMHmxoNrWKo
 
 <table style="width:100%">
   <tr>
-    <th>Name</th>
-    <th colspan="2">Telephone</th>
+    <th colspan="2"></th>
   </tr>
   <tr>
-    <td><img src="/img/FoodIndustry1.png" height="50%" width="50%"></td>
-    <td><img src="/img/FoodIndustry2.png" height="50%" width="50%"></td>
-   
+    <td><img src="/img/FoodIndustry1.png"></td>
+    <td><img src="/img/FoodIndustry2.png"></td>   
   </tr>
 </table>
 
