@@ -1,6 +1,10 @@
 # 20200401
 Building Blockchain apps with JavaScript part 2 
  
+ https://github.com/LennartFr/20200401supplychain/tradelens
+ 
+ 
+ 
  <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # URL to this repo: https://bit.ly/2QbPB5m
