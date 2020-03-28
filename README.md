@@ -69,6 +69,20 @@ https://youtu.be/mMHmxoNrWKo
 </table>
 <p>
 
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th colspan="2">Telephone</th>
+  </tr>
+  <tr>
+    <td>Bill Gates</td>
+    <td>55577854</td>
+    <td>55577855</td>
+  </tr>
+</table>
+
+
+
 <img src="/img/Blockchain.png">
 <p>
 <img src="/img/Ledger.png">
