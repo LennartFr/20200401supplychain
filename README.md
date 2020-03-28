@@ -57,12 +57,14 @@ https://youtu.be/mMHmxoNrWKo
 
 <table style="width:100%">
   <tr>
+ <td>
    <img src="/img/FoodIndustry1.png" height="50%" width="50%">
-
+   </td>
   </tr>
   <tr>
+   <td>
     <img src="/img/FoodIndustry2.png" height="50%" width="50%">
-   
+   </td>
   </tr>
 </table>
 <p>
@@ -76,12 +78,7 @@ https://youtu.be/mMHmxoNrWKo
 
 <img src="/img/SmartContract2.png">
 
-  
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-
-
-
 
 <p>
 <img src="/img/BP1.png">
