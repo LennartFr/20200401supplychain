@@ -7,7 +7,7 @@ Building Blockchain apps with JavaScript part 2
 
 # How to Create a Supply Chain Blockchain App
 
-<h1 style="color:red;font-size:40px;">Heading</h1> 
+<h1 style="color:red;font-size:46px;">Heading</h1> 
 
 #### Lennart Frantzell, IBM Devloper Advocate San Francisco alf@us.ibm.com
 
