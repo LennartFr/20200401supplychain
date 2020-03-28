@@ -21,6 +21,8 @@ https://youtu.be/mMHmxoNrWKo
 
 <A HREF="https://developer.ibm.com/technologies/blockchain/patterns/run-smart-contract-on-blockchain-network-with-raft-ordering-service/">Run a smart contract on a blockchain network with the Raft ordering service</a>
 
+<a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html">The Ordering Service</a>
+
 <img src="/img/Blockvid.png">
 
 <img src="/img/Honeywell.png">
