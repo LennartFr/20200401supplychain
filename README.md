@@ -1,4 +1,4 @@
-# 20200401
+# 20200401supplychain
 # Building Blockchain apps with JavaScript part 2 
 
 # URL to this repo: https://bit.ly/2QbPB5m
