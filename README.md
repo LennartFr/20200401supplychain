@@ -14,6 +14,9 @@ Building Blockchain apps with JavaScript part 2
 ## Blockchain in the news
 
 <img src="/img/IBP.GS.png">
+
+https://youtu.be/mMHmxoNrWKo
+
 <img src="/img/BC.2.1.3.png">
 
 <img src="/img/Blockvid.png">
