@@ -3,8 +3,6 @@ Building Blockchain apps with JavaScript part 2
  
  https://github.com/LennartFr/20200401supplychain/tradelens
  
- 
- 
  <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # URL to this repo: https://bit.ly/2QbPB5m
@@ -39,10 +37,6 @@ https://youtu.be/mMHmxoNrWKo
 
 <img src="/img/Credentials.png">
 
-<img src="/img/TradeLens1.png">
-
-https://github.com/LennartFr/20200401supplychain/blob/master/TradeLens.md
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## We'll start here: [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqXCj)
@@ -59,8 +53,7 @@ https://github.com/LennartFr/20200401supplychain/blob/master/TradeLens.md
 
 ## In addition to the Open Source Hyperledger Fabric there is the cloud-based IBM Blockchain Platform:
 
-## Food industry without Blockchain
-
+## Food industry and Blockchain
 
 <p>
 
@@ -135,6 +128,10 @@ Please note: The IBM Blockchain Platform for IBM Cloud requires the IBM Cloud Ku
 <img src="/img/Food.Trust1.png">
 
 https://github.com/LennartFr/20200401supplychain
+
+<img src="/img/TradeLens1.png">
+
+https://github.com/LennartFr/20200401supplychain/blob/master/TradeLens.md
 
 <img src="/img/Bean2.png">
 
