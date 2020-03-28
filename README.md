@@ -128,15 +128,13 @@ Please note: The IBM Blockchain Platform for IBM Cloud requires the IBM Cloud Ku
 
 <img src="/img/Food.Trust1.png">
 
-
+https://github.com/LennartFr/20200401supplychain
 
 <img src="/img/Bean2.png">
 
 ## FYI: <a href="https://www.ibm.com/thought-leadership/blockchainbean/">Blockchain Bean</a>
 
 ## FYI: <a href="https://www.ibm.com/blockchain/industries/supply-chain">IBM Blockchain for Supply Chain </a>
-
-
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
