@@ -126,7 +126,7 @@ Please note: The IBM Blockchain Platform for IBM Cloud requires the IBM Cloud Ku
 
 # Some Supply Chain Apps written in Blockchain
 
-<img src="/img/Food Trust1.png">
+<img src="/img/FoodTrust1.png">
 
 
 
