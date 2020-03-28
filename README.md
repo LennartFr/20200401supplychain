@@ -51,8 +51,6 @@ https://youtu.be/mMHmxoNrWKo
 
 ### FYI: [Hyperledger Fabric code](https://www.hyperledger.org/projects/fabric)
 
-## In addition to the Open Source Hyperledger Fabric there is the cloud-based IBM Blockchain Platform:
-
 ## Food industry and Blockchain
 
 <p>
@@ -66,8 +64,6 @@ https://youtu.be/mMHmxoNrWKo
     <td><img src="/img/FoodIndustry2.png"></td>   
   </tr>
 </table>
-
-
 
 <img src="/img/Blockchain.png">
 <p>
@@ -84,7 +80,12 @@ https://youtu.be/mMHmxoNrWKo
 <img src="/img/BP1.png">
 <p>
 
- <p>
+## In addition to the Open Source Hyperledger Fabric there is the cloud-based IBM Blockchain Platform:
+
+<img src="/img/bp1.png">
+<p>
+<img src="/img.bp2.png"<
+
 
 ## IBM Blockchain Platform Console. https://www.ibm.com/cloud/blockchain-platform/pricing
 
@@ -120,8 +121,6 @@ Please note: The IBM Blockchain Platform for IBM Cloud requires the IBM Cloud Ku
 ### FYI: Blockchain Code Patterns https://developer.ibm.com/technologies/blockchain/patterns/
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-
 
 # Some Supply Chain Apps written in Blockchain
 
