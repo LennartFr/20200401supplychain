@@ -52,7 +52,35 @@ https://youtu.be/mMHmxoNrWKo
 ### FYI: [Hyperledger Fabric code](https://www.hyperledger.org/projects/fabric)
 
 ## In addition to the Open Source Hyperledger Fabric there is the cloud-based IBM Blockchain Platform:
+
+## Food industry without Blockchain
+
+<img src="/img/FoodIndustry1.png" height="50%" width="50%">
+
+<p>
  
+## Food industry with Blockchain
+
+<img src="/img/FoodIndustry2.png" height="50%" width="50%">
+
+<p>
+
+<img src="/img/Blockchain.png">
+<p>
+<img src="/img/Ledger.png">
+<p>
+
+## Smart Contracts to program the Internet 
+
+<img src="/img/SmartContract2.png">
+
+  
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+
+
+
+
 <p>
 <img src="/img/BP1.png">
 <p>
@@ -94,30 +122,6 @@ Please note: The IBM Blockchain Platform for IBM Cloud requires the IBM Cloud Ku
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-
-## Food industry without Blockchain
-
-<img src="/img/FoodIndustry1.png">
-
-<p>
- 
-## Food industry with Blockchain
-
-<img src="/img/FoodIndustry2.png">
-
-<p>
-
-<img src="/img/Blockchain.png">
-<p>
-<img src="/img/Ledger.png">
-<p>
-
-## Smart Contracts to program the Internet 
-
-<img src="/img/SmartContract2.png">
-
-  
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 
 # Some Supply Chain Apps written in Blockchain
