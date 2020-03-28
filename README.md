@@ -75,9 +75,9 @@ https://youtu.be/mMHmxoNrWKo
     <th colspan="2">Telephone</th>
   </tr>
   <tr>
-    <td>Bill Gates</td>
-    <td>55577854</td>
-    <td>55577855</td>
+    <td><img src="/img/FoodIndustry1.png" height="50%" width="50%"></td>
+    <td><img src="/img/FoodIndustry2.png" height="50%" width="50%"></td>
+   
   </tr>
 </table>
 
