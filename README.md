@@ -49,19 +49,7 @@ https://youtu.be/mMHmxoNrWKo
 
 ### FYI: [Hyperledger Fabric code](https://www.hyperledger.org/projects/fabric)
 
-## Food industry and Blockchain
-
 <p>
-
-<table style="width:100%">
-  <tr>
-    <th colspan="2"></th>
-  </tr>
-  <tr>
-    <td><img src="/img/FoodIndustry1.png"></td>
-    <td><img src="/img/FoodIndustry2.png"></td>   
-  </tr>
-</table>
 
 <img src="/img/Blockchain.png">
 <p>
@@ -72,6 +60,17 @@ https://youtu.be/mMHmxoNrWKo
 
 <img src="/img/SmartContract2.png">
 
+## Food industry and Blockchain
+
+<table style="width:100%">
+  <tr>
+    <th colspan="2"></th>
+  </tr>
+  <tr>
+    <td><img src="/img/FoodIndustry1.png"></td>
+    <td><img src="/img/FoodIndustry2.png"></td>   
+  </tr>
+</table>
 
 # Some Supply Chain Apps written in Blockchain
 
@@ -92,7 +91,6 @@ https://github.com/LennartFr/20200401supplychain/blob/master/TradeLens.md
 ## IBM Blockchain World Wire
 
 <img src="/img/IBM.World.Wire.png"> 
-
 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
