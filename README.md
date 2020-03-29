@@ -72,48 +72,6 @@ https://youtu.be/mMHmxoNrWKo
 
 <img src="/img/SmartContract2.png">
 
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-## In addition to the Open Source Hyperledger Fabric there is the cloud-based IBM Blockchain Platform:
-
-<img src="/img/BP1.png">
-<p>
-<img src="/img/BP2.png">
-
-## IBM Blockchain Platform Console. https://www.ibm.com/cloud/blockchain-platform/pricing
-
-### https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing#ibp-saas-pricing-free-howto
-
-<img src="/img/BCConsole1.png">
-
-1. Deploy on IBM Cloud
-2. Deploy using Software as a Service (SaaS) 
-3. $0.29 USD
-4. Price per Allocated CPU-Hour (VPC-hour)
-ㅤㅤ ㅤㅤ ㅤㅤ
-<p>IBM Cloud advantages:
- 
-1. No membership fees: Invest directly in your blockchain components
-2. Estimation clarity: Simple hourly pricing model for easier cost control
-3. Scalability to compute: Adjust compute up or down to minimize expense
-4. Leverage your existing IBM Cloud services and components
-5. Billing transparency: Pay as you go with updates on your dashboard
-
-<p>ㅤㅤ ㅤㅤ ㅤㅤ
-Please note: The IBM Blockchain Platform for IBM Cloud requires the IBM Cloud Kubernetes Service and storage, which are billed separately.
-
-
-### FYI: [IBM Blockchain Platform Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
-
-### FYI: [Getting started with the IBM Blockchain Platform](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-get-started-ibp)
-
-### FYI: <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-v2-faq#ibp-v2-faq-vscode-tutorials">IBM Blockchain Platform FAQs</a>
-
-### FYI: [Blockchain Garage can help you get started with Blockchain](https://www.ibm.com/blockchain/garage)
-
-### FYI: Blockchain Code Patterns https://developer.ibm.com/technologies/blockchain/patterns/
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Some Supply Chain Apps written in Blockchain
 
@@ -134,6 +92,38 @@ https://github.com/LennartFr/20200401supplychain/blob/master/TradeLens.md
 ## IBM Blockchain World Wire
 
 <img src="/img/IBM.World.Wire.png"> 
+
+
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+## In addition to the Open Source Hyperledger Fabric there is the cloud-based IBM Blockchain Platform:
+
+<img src="/img/BP1.png">
+<p>
+<img src="/img/BP2.png">
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+## IBM Blockchain Platform Console. https://www.ibm.com/cloud/blockchain-platform/pricing
+
+### https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing#ibp-saas-pricing-free-howto
+
+<img src="/img/BCConsole1.png">
+
+### FYI: [IBM Blockchain Platform Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
+
+### FYI: [Getting started with the IBM Blockchain Platform](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-get-started-ibp)
+
+### FYI: <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-v2-faq#ibp-v2-faq-vscode-tutorials">IBM Blockchain Platform FAQs</a>
+
+### FYI: [Blockchain Garage can help you get started with Blockchain](https://www.ibm.com/blockchain/garage)
+
+### FYI: Blockchain Code Patterns https://developer.ibm.com/technologies/blockchain/patterns/
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
