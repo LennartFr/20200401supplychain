@@ -23,7 +23,7 @@ https://youtu.be/mMHmxoNrWKo
 
 <a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html">The Ordering Service</a>
 
-<img src="/img/Blockvid.png">
+<img src="/img/Mipasa.png">
 
 <img src="/img/Honeywell.png">
 
