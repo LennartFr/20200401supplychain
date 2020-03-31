@@ -29,9 +29,21 @@ https://youtu.be/mMHmxoNrWKo
 
 <img src="/img/BC.2.1.3.png">
 
-## <A HREF="https://developer.ibm.com/technologies/blockchain/patterns/run-smart-contract-on-blockchain-network-with-raft-ordering-service/">Run a smart contract on a blockchain network with the Raft ordering service</a>
+## FYI: <A HREF="https://developer.ibm.com/technologies/blockchain/patterns/run-smart-contract-on-blockchain-network-with-raft-ordering-service/">Run a smart contract on a blockchain network with the Raft ordering service</a>
 
-## <a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html">The Ordering Service</a>
+## FYI: <a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html">The Ordering Service</a>
+
+
+
+## Orderers and the transaction flow
+### Kafka (deprecated in v2.0)
+### Phase one: Proposal
+### Raft (recommended)
+### New as of v1.4.1, Raft is a crash fault tolerant (CFT) ordering service based on 
+### an implementation of Raft protocol in etcd
+### Phase two: Ordering and packaging transactions into blocks
+### Phase three: Validation and commit
+https://hyperledger-fabric.readthedocs.io/en/release-2.0/orderer/ordering_service.html
 
 <img src="/img/Mipasa.png">
 
