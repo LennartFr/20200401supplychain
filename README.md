@@ -14,7 +14,7 @@
 ## Agenda: 
 
 ### Lennart: intro and overview
-### David: ## https://app.gitbook.com/@ibmdevelopersf/s/ibm-blockchain/ 
+### David: https://app.gitbook.com/@ibmdevelopersf/s/ibm-blockchain/ 
 ###        Walk through VSCode's Blockchain extension to build
 ###        your own Blockchain application
 ### Taiji: introduction to the IBM Blockchain Platform 
