@@ -37,10 +37,10 @@ https://youtu.be/mMHmxoNrWKo
 
 ## Orderers and the transaction flow
 ### Kafka (deprecated in v2.0)
-### Phase one: Proposal
 ### Raft (recommended)
 ### New as of v1.4.1, Raft is a crash fault tolerant (CFT) ordering service based on 
 ### an implementation of Raft protocol in etcd
+### Phase one: Proposal
 ### Phase two: Ordering and packaging transactions into blocks
 ### Phase three: Validation and commit
 https://hyperledger-fabric.readthedocs.io/en/release-2.0/orderer/ordering_service.html
