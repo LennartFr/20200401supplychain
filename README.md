@@ -16,7 +16,6 @@
 ### Lennart: intro and overview
 ### David: https://app.gitbook.com/@ibmdevelopersf/s/ibm-blockchain/ 
 ### -----  Walk through VSCode's Blockchain extension to build your own Blockchain application
-### -----  your own Blockchain application
 ### Taiji: introduction to the clouad-based IBM Blockchain Platform 
 
 ## Blockchain in the news
