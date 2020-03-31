@@ -11,6 +11,13 @@
 
 #### Taiji Hagino, Senior IBM Developer Advocate, Tokyo
 
+## Agenda: 
+
+### Lennart: intro and overview
+### David: ## https://app.gitbook.com/@ibmdevelopersf/s/ibm-blockchain/ Walk through VSCode's Blockchain extension to build
+### your own Blockchain application
+### Taiji: introduction to the IBM Blockchain Platform 
+
 ## Blockchain in the news
 
 <img src="/img/IBP.GS.png">
