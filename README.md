@@ -11,53 +11,9 @@
 
 #### Taiji Hagino, Senior IBM Developer Advocate, Tokyo
 
-## Agenda: 
-
-### Lennart: intro and overview
-### David: Walk through VSCode's Blockchain extension to build your own Blockchain application
-### Taiji: introduction to the cloud-based IBM Blockchain Platform 
-
-
- <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-# Blockchain in the news
-
-<img src="/img/Mipasa.png">
-
-<img src="/img/IBP.GS.png">
-
-https://youtu.be/mMHmxoNrWKo
-
-<img src="/img/BC.2.1.3.png">
-
-## FYI: <A HREF="https://developer.ibm.com/technologies/blockchain/patterns/run-smart-contract-on-blockchain-network-with-raft-ordering-service/">Run a smart contract on a blockchain network with the Raft ordering service</a>
-
-## FYI: <a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html">The Ordering Service</a>
-
-## Orderers and the transaction flow
-### Kafka (deprecated in v2.0)
-### Raft (recommended)
-### New as of v1.4.1, Raft is a crash fault tolerant (CFT) ordering service based on 
-### an implementation of Raft protocol in etcd
-
-https://hyperledger-fabric.readthedocs.io/en/release-2.0/orderer/ordering_service.html
-
-
-<img src="/img/Honeywell.png">
-
-<img src="/img/Oracle.png">
-
-<img src="/img/Amsterdam.png">                            
-
-<img src="/img/Credentials.png">
-
-<img src="/img/bmw.png">
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## We'll start here: [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqXCj)
-
-<img src="/img/Signup.png">            
 
 ## Satoshi Nakamoto's paper: Bitcoin: A Peer-to-Peer Electronic Cash System https://bitcoin.org/bitcoin.pdf from 2008.
 
@@ -118,6 +74,49 @@ https://github.com/LennartFr/20200401supplychain/blob/master/TradeLens.md
 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+
+ <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Blockchain in the news
+
+<img src="/img/Mipasa.png">
+
+<img src="/img/IBP.GS.png">
+
+https://youtu.be/mMHmxoNrWKo
+
+<img src="/img/BC.2.1.3.png">
+
+## FYI: <A HREF="https://developer.ibm.com/technologies/blockchain/patterns/run-smart-contract-on-blockchain-network-with-raft-ordering-service/">Run a smart contract on a blockchain network with the Raft ordering service</a>
+
+## FYI: <a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html">The Ordering Service</a>
+
+## Orderers and the transaction flow
+### Kafka (deprecated in v2.0)
+### Raft (recommended)
+### New as of v1.4.1, Raft is a crash fault tolerant (CFT) ordering service based on 
+### an implementation of Raft protocol in etcd
+
+https://hyperledger-fabric.readthedocs.io/en/release-2.0/orderer/ordering_service.html
+
+
+<img src="/img/Honeywell.png">
+
+<img src="/img/Oracle.png">
+
+<img src="/img/Amsterdam.png">                            
+
+<img src="/img/Credentials.png">
+
+<img src="/img/bmw.png">
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+## We'll start here: [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqXCj)
+
+<img src="/img/Signup.png">            
+
 
 ## In addition to the Open Source Hyperledger Fabric there is the cloud-based IBM Blockchain Platform:
 
