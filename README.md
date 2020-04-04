@@ -20,7 +20,7 @@
 
  <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Blockchain in the news
+# Blockchain in the news
 
 <img src="/img/IBP.GS.png">
 
@@ -31,8 +31,6 @@ https://youtu.be/mMHmxoNrWKo
 ## FYI: <A HREF="https://developer.ibm.com/technologies/blockchain/patterns/run-smart-contract-on-blockchain-network-with-raft-ordering-service/">Run a smart contract on a blockchain network with the Raft ordering service</a>
 
 ## FYI: <a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html">The Ordering Service</a>
-
-
 
 ## Orderers and the transaction flow
 ### Kafka (deprecated in v2.0)
