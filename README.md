@@ -31,6 +31,9 @@
 
 # Introduction to Blockchain
 
+Transaction is permanently stored in the Blockchain and also stored in the World state that contains the current value of all objects 
+
+## Transaction <br>
 Txn = buy<br>
 Issuer = MagnetoCorp<br>
 Paper = 00001<br>
