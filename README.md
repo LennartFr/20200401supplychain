@@ -22,6 +22,8 @@
 
 # Blockchain in the news
 
+<img src="/img/Mipasa.png">
+
 <img src="/img/IBP.GS.png">
 
 https://youtu.be/mMHmxoNrWKo
@@ -40,7 +42,6 @@ https://youtu.be/mMHmxoNrWKo
 
 https://hyperledger-fabric.readthedocs.io/en/release-2.0/orderer/ordering_service.html
 
-<img src="/img/Mipasa.png">
 
 <img src="/img/Honeywell.png">
 
