@@ -35,6 +35,10 @@ immutability and finality and maintained by each peer in a business network.
 <p>
  A blockchain network is comprised primarily of a set of peer nodes (or, simply, peers). Peers are a fundamental element of the network because they host ledgers and smart contracts.
 <p>
+ 
+ <img src="/img/peers.png">
+ 
+<p>
 Transaction are permanently stored in the Blockchain and also stored in the World state that contains the current value of all objects 
 
 ## Transaction <br>
