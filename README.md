@@ -30,7 +30,7 @@
 
 # Introduction to the Blockchain
 
-<img src"/img/BlockChain1.png">
+<img src="/img/BlockChain1.png">
 
 The Blockchain is a shared, replicated ledger 台帳 with consensus, provenance, <br>
 immutability and finality and maintained by each peer in a business network.
