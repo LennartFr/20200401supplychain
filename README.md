@@ -151,6 +151,39 @@ https://github.com/LennartFr/20200401supplychain/blob/master/TradeLens.md
  2. Download Visual Studio Code: https://code.visualstudio.com/updates/v1_39. Sept 2019 version 1.39.x Be sure to change Setttings/Update:Mode to manual  
  3. Download the IBM Blockchain Platform Extension for VS Code: https://bit.ly/2RS2R02 
  4. Trouble-shoot installation: https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TROUBLE-SHOOTING.md 
+ 
+ # Create your first Blockchain MVP
+ 
+# Event URL: <a href="http://ibm.biz/OlgaBlockChain">http://ibm.biz/OlgaBlockChain</a>
+
+# Contact:  Linkedin.com/in/lennartfrantzell/
+ 
+[Whitelisting](https://cloud.ibm.com/registration/whitelist) 
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Blockchain development methodology
+
+# Step 1: Start with: <a href="https://www.ibm.com/blockchain/use-cases/">Blockchain Use Cases</a>
+      
+# Step 2: Existing architecture, systems, domain knowledge and data, regulations
+  
+  ## 2.2: Move selected Off-chain data On-Chain
+  
+# Step 3: Smart Contracts
+  
+# Step 4: dev team
+  ### 1 Architect
+  ### 1 domain expert, marketing expert
+  ### 1 operator
+  ### 2 devs
+
+### Step 5: Blockchain Architecture
+
+   ### Orderer (Solo, Kafka Raft, SBFT)
+   ### MSP, Peers, Channel, World State, Ledger
+  
+  
 
 # Hands-on Blockchain
 
