@@ -26,6 +26,9 @@
 ### FYI: [Hyperledger Fabric code](https://www.hyperledger.org/projects/fabric)
 
 <p>
+ <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Introduction to Blockchain
 
 <img src="/img/Blockchain.png">
 <p>
