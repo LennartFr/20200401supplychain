@@ -11,7 +11,6 @@
 
 #### Taiji Hagino, Senior IBM Developer Advocate, Tokyo
 
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Blockchain sources
@@ -29,9 +28,12 @@
 <p>
  <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Introduction to Blockchain
+# Introduction to the Blockchain
 
-Transaction is permanently stored in the Blockchain and also stored in the World state that contains the current value of all objects 
+Blockchain is a shared, replicated ledger with consensus, provenance, <br>
+immutability and finality and maintained by each peer.
+<p.
+Transaction are permanently stored in the Blockchain and also stored in the World state that contains the current value of all objects 
 
 ## Transaction <br>
 Txn = buy<br>
