@@ -33,6 +33,8 @@
 The Blockchain is a shared, replicated ledger 台帳 with consensus, provenance, <br>
 immutability and finality and maintained by each peer in a business network.
 <p>
+ A blockchain network is comprised primarily of a set of peer nodes (or, simply, peers). Peers are a fundamental element of the network because they host ledgers and smart contracts.
+<p>
 Transaction are permanently stored in the Blockchain and also stored in the World state that contains the current value of all objects 
 
 ## Transaction <br>
@@ -43,6 +45,7 @@ Current owner = MagnetoCorp<br>
 New owner = DigiBank<br>
 Purchase time = 31 May 2020 10:00:00 EST<br>
 Price = 4.94M USD<br>
+<p>
 
 <p>
 
