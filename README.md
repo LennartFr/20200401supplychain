@@ -31,6 +31,16 @@
 
 # Introduction to Blockchain
 
+Txn = buy<br>
+Issuer = MagnetoCorp<br>
+Paper = 00001<br>
+Current owner = MagnetoCorp<br>
+New owner = DigiBank<br>
+Purchase time = 31 May 2020 10:00:00 EST<br>
+Price = 4.94M USD<br>
+
+<p>
+
 <img src="/img/Blockchain.png">
 <p>
 <img src="/img/Ledger.png">
