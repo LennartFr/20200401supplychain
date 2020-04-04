@@ -30,7 +30,7 @@
 
 # Introduction to the Blockchain
 
-The Blockchain is a shared, replicated ledger with consensus, provenance, <br>
+The Blockchain is a shared, replicated ledger 台帳 with consensus, provenance, <br>
 immutability and finality and maintained by each peer in a business network.
 <p>
 Transaction are permanently stored in the Blockchain and also stored in the World state that contains the current value of all objects 
