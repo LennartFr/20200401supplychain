@@ -60,6 +60,11 @@ Price = 4.94M USD<br>
 <img src="/img/Ledger.png">
 <p>
 
+### On-Chain and Off-Chain
+
+Blockchain is not meant for large datasets. Instead it is better to use traditional data bases for large datasets and then create a hash of the large datasets that is stored on the Blockchain. And that allows the large datasets to be accessed through the hash. 
+
+<p>
 ## Smart Contracts to program the Internet 
 
 <img src="/img/SmartContract2.png">
