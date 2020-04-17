@@ -70,6 +70,8 @@ Blockchain is not meant for large datasets. Instead it is better to use traditio
 
 ### Permissioned, permission-less
 
+### Oracles
+
 ### Tokens and incentive mechanisms
 
 ### Identity and Zero Knowledge
