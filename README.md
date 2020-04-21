@@ -27,7 +27,7 @@
 
 <p>
  <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
+ 
 # Introduction to the Blockchain
 
 <img src="/img/BlockChain1.png">
