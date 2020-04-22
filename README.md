@@ -33,7 +33,7 @@
 
 # Introduction to the Blockchain
 
-<img src="/img/problem.png">
+<img src="/img/Problem.png">
 
 <img src="/img/BlockChain1.png">
 
