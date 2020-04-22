@@ -30,8 +30,7 @@
 <p>
  <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
  
-https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/ 
- 
+
 # Introduction to the Blockchain
 
 <img src="/img/BlockChain1.png">
@@ -86,11 +85,6 @@ Blockchain is not meant for large datasets. Instead it is better to use traditio
 
 ### Consensus mechanisms
 
-### Systems integration
-
-
-
-
 
 ## Smart Contracts to program the Internet 
 
@@ -130,6 +124,8 @@ https://github.com/LennartFr/20200401supplychain/blob/master/TradeLens.md
 
 ## IBM Blockchain World Wire
 
+https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/ 
+ 
 <img src="/img/IBM.World.Wire.png"> 
 
 
