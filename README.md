@@ -84,7 +84,7 @@ Blockchain is not meant for large datasets. Instead it is better to use traditio
 
 ### Tokens and incentive mechanisms
 
-### Identity and Zero Knowledge
+### Identity and Zero Knowledge. In cryptography, a zero-knowledge proof is a method by which one party can prove to another party that they know a value x, without conveying any information apart from the fact that they know the value x. 
 
 ### Consensus mechanisms
 
