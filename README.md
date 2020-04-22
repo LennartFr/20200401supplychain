@@ -280,3 +280,29 @@ Important: You will need a smart contract package and a suitable cloud environme
 ### 1.6 Youtube Video: <a href="https://youtu.be/5b7awLi93-E">Create a simple Coffee Bean Supply Chain Blockchain on Hyperledger Fabric</a>
 
 ### 1.7 <a href="https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/">Create a fair trade supply chain network Use Hyperledger Fabric and IBM Blockchain Platform to increase efficiency in the supply chain of a coffee retailer</a>
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Create your first Blockchain MVP
+
+# Step 1: Start with: <a href="https://www.ibm.com/blockchain/use-cases/">Blockchain Use Cases</a>
+      
+# Step 2: Existing architecture, systems, domain knowledge and data, regulations
+  
+  ## 2.2: Move selected Off-chain data On-Chain
+  
+# Step 3: Smart Contracts
+  
+# Step 4: dev team
+  ### 1 Architect
+  ### 1 domain expert, marketing expert
+  ### 1 operator
+  ### 2 devs
+
+### Step 5: Blockchain Architecture
+
+   ### Orderer (Solo, Kafka Raft, SBFT)
+   ### MSP, Peers, Channel, World State, Ledger
+  
+  
+# Sources:
