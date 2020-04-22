@@ -19,13 +19,13 @@
 
 ## https://nakamotoinstitute.org/static/docs/bitcoin-jp.pdf
 
-## Hyperledger Projects: https://www.hyperledger.org/projects
-
 ## Hyperledger Fabric – from The Linux Foundation – is the open source modular blockchain framework that has become the de facto standard for enterprise blockchain platforms. 
 
 ### FYI: [Hyperledger Fabric documentation](https://hyperledger-fabric.readthedocs.io/en/release-2.0/)
 
 ### FYI: [Hyperledger Fabric code](https://www.hyperledger.org/projects/fabric)
+
+### Hyperledger Projects: https://www.hyperledger.org/projects
 
 <p>
  <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
