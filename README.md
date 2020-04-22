@@ -207,6 +207,8 @@ https://hyperledger-fabric.readthedocs.io/en/release-2.0/orderer/ordering_servic
  3. Download the IBM Blockchain Platform Extension for VS Code: https://bit.ly/2RS2R02 
  4. Trouble-shoot installation: https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TROUBLE-SHOOTING.md 
  
+ <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+ 
  # Create your first Blockchain MVP
  
 # Event URL: <a href="http://ibm.biz/OlgaBlockChain">http://ibm.biz/OlgaBlockChain</a>
@@ -238,7 +240,7 @@ https://hyperledger-fabric.readthedocs.io/en/release-2.0/orderer/ordering_servic
    ### Orderer (Solo, Kafka Raft, SBFT)
    ### MSP, Peers, Channel, World State, Ledger
   
-  
+ 
 
 # Hands-on Blockchain
 
@@ -304,7 +306,8 @@ Important: You will need a smart contract package and a suitable cloud environme
    ### Orderer (Solo, Kafka Raft, SBFT)
    ### MSP, Peers, Channel, World State, Ledger
   
-  
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband"> 
+ 
 # Code Patterns
 
 <img src="/img/CodePatterns.png">
