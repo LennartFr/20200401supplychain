@@ -122,17 +122,13 @@ https://github.com/LennartFr/20200401supplychain/blob/master/TradeLens.md
 
 ## FYI: <a href="https://www.ibm.com/blockchain/industries/supply-chain">IBM Blockchain for Supply Chain </a>
 
-## IBM Blockchain World Wire
+## IBM Blockchain World Wire and blockchainm performance
 
 https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/ 
  
 <img src="/img/IBM.World.Wire.png"> 
 
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-
- <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Blockchain in the news
 
