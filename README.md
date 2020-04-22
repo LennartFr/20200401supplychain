@@ -85,7 +85,6 @@ Blockchain is not meant for large datasets. Instead it is better to use traditio
 
 ### Consensus mechanisms
 
-
 ## Smart Contracts to program the Internet 
 
 <img src="/img/SmartContract2.png">
@@ -135,6 +134,8 @@ https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-
 <img src="/img/Mipasa.png">
 
 <img src="/img/IBP.GS.png">
+
+<img src="/img/Supplychain.png">
 
 https://youtu.be/mMHmxoNrWKo
 
