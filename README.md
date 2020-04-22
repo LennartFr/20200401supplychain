@@ -58,6 +58,9 @@ Purchase time = 31 May 2020 10:00:00 EST<br>
 Price = 4.94M USD<br>
 <p>
 
+## like stored procedures in the database world
+
+
 <a href="https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethereum">EVM integration: Hyperledger Fabric Now Supports Ethereum</a>
 
 <p>
