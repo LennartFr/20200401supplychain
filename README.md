@@ -305,4 +305,6 @@ Important: You will need a smart contract package and a suitable cloud environme
    ### MSP, Peers, Channel, World State, Ledger
   
   
-# Sources:   
+# Code Patterns
+
+<img src="/img/CodePatterns.png">
