@@ -173,7 +173,19 @@ https://hyperledger-fabric.readthedocs.io/en/release-2.0/orderer/ordering_servic
 
 ## We'll start here: [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqXCj)
 
-<img src="/img/Signup.png">            
+<img src="/img/Signup.png">
+
+## Why are there no Blockchain solutios for:
+
+Hospital records<p>
+ 
+Birth records<p>
+
+Real estate solutions<p>
+ 
+Election solutions <p>
+ 
+National crypto currencies https://www.interactivecrypto.com/e-krona-swedish-national-cryptocurrency-way 
 
 
 ## In addition to the Open Source Hyperledger Fabric there is the cloud-based IBM Blockchain Platform:
